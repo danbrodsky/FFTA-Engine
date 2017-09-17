@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: 90d3a31b1ee46194ebca3744f91644e5
+timeCreated: 1465275349
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: redmage_0
+    21300002: redmage_1
+    21300004: redmage_2
+    21300006: redmage_3
+    21300008: redmage_4
+    21300010: redmage_5
+    21300012: redmage_6
+    21300014: redmage_7
+    21300016: redmage_8
+    21300018: redmage_9
+    21300020: redmage_10
+    21300022: redmage_11
+    21300024: redmage_12
+    21300026: redmage_13
+    21300028: redmage_14
+    21300030: redmage_15
+    21300032: redmage_16
+    21300034: redmage_17
+    21300036: redmage_18
+    21300038: redmage_19
+    21300040: redmage_20
+    21300042: redmage_21
+    21300044: redmage_22
+    21300046: redmage_23
+    21300048: redmage_24
+    21300050: redmage_25
+    21300052: redmage_26
+    21300054: redmage_27
+    21300056: redmage_28
+    21300058: redmage_29
+    21300060: redmage_30
+    21300062: redmage_31
+    21300064: redmage_32
+    21300066: redmage_33
+    21300068: redmage_34
+    21300070: redmage_35
+    21300072: redmage_36
+    21300074: redmage_37
+    21300076: redmage_38
+    21300078: redmage_39
+    21300080: redmage_40
+    21300082: redmage_41
+    21300084: redmage_42
+    21300086: redmage_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: redmage_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 229
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 229
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 229
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 61
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 34}
+        - {x: 30.5, y: 64}
+        - {x: 2.5, y: 96}
+        - {x: -19.5, y: 96}
+        - {x: -19.5, y: 87}
+        - {x: -29.5, y: 90}
+        - {x: -30.5, y: 90}
+        - {x: -30.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 11.5, y: 3}
+        - {x: 5.5, y: 10}
+        - {x: 14.5, y: 15}
+    - name: redmage_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 197
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 197
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 197
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 164
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 164
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 164
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 164
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 164
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 132
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 130
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 132
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 132
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 132
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 84
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 98
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 98
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 98
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 65
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 65
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 65
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 33
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 35
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 17
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 11
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 17
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 11
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_33
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 17
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_34
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 17
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 11
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 11
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 17
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_38
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_40
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 3
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 11
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: redmage_43
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 11
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
